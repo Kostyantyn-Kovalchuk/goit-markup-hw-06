@@ -381,6 +381,7 @@ img {
 .modal-form-label.policy {
   display: flex;
   align-items: center;
+  margin-bottom: 0;
 }
 
 .modal-form-textarea::placeholder {
